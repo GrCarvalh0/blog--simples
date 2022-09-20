@@ -1,0 +1,58 @@
+body{
+    background-color: #d8bfff;
+    max-width: 960px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.img{
+    width: 98%;
+    height: 400px;
+    border: 8px solid #c0a7c9;
+}
+#principal{
+    width: 960px;
+}
+#mn{
+    padding: 5px;
+    background-color: #c1abe4;
+    height: 50px;
+}
+
+.menu{
+    display: inline;
+    font-size: 12pt;
+    padding: 5px;
+}
+
+#text{
+    background-color: #e5d4fc;
+    padding: 20px;
+    text-align: justify;
+}
+
+#contato{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    background-color: #e5d4fc;
+    padding: 1px;
+}
+#rodape{
+    background-color: #c1abe4;
+    padding: 1px;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    /*border: 1px solid red;*/
+    padding: 5px;
+}
+
+/*.centralizar{
+    text-align: center;
+}*/
